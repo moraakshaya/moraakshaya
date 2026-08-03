@@ -18,56 +18,32 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Akshaya 👋
 
-### 💻 Frontend Developer | Aspiring Full Stack MERN Developer
+### 🚀 Full Stack MERN Developer
 
-I'm a Frontend Developer with 1 year of professional experience building responsive and user-friendly web applications. I'm currently expanding my expertise into backend development with Node.js, Express.js, and MongoDB to become a Full Stack MERN Developer.
-
-I enjoy building scalable applications, writing clean code, and solving real-world problems through modern web technologies.
+I'm a passionate Full Stack Developer who enjoys building modern, scalable, and user-friendly web applications using the MERN Stack. I love creating clean, responsive interfaces and robust backend systems that solve real-world problems.
 
 ---
 
-## 🚀 What I'm Working On
+### 💻 Tech Stack
 
-- 📊 Building a production-ready CRM (Lead & Client Management System)
-- 🔐 Developing secure REST APIs using Node.js & Express.js
-- 🗄️ Learning MongoDB database design and backend architecture
-- 🌐 Building complete Full Stack MERN applications
-
----
-
-## 🌱 Currently Learning
-
-- Node.js
-- Express.js
-- MongoDB
-- REST API Development
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Backend Best Practices
-- System Design Fundamentals
-
----
-
-## 💻 Tech Stack
-
-### Frontend
+**Frontend**
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 - Tailwind CSS
 
-### Backend
+**Backend**
 - Node.js
 - Express.js
 - REST APIs
 - JWT Authentication
 
-### Database
+**Database**
 - MongoDB
 - Mongoose
 
-### Tools
+**Tools**
 - Git
 - GitHub
 - Postman
@@ -77,20 +53,53 @@ I enjoy building scalable applications, writing clean code, and solving real-wor
 
 ---
 
-## 🎯 Career Goal
+### 🔭 Currently Working On
 
-I'm working toward becoming a Full Stack MERN Developer by building real-world applications that combine intuitive user interfaces with scalable backend systems.
+- 🚀 Professional Developer Portfolio
+- 📊 MERN CRM (Lead & Client Management System)
+- 👨‍💼 Human Resource Management (HRM) System
 
-I'm actively seeking opportunities where I can contribute, learn, and grow as a software engineer.
+---
+
+### 🌱 Currently Learning
+
+- Advanced Backend Development
+- System Design
+- Performance Optimization
+- Scalable Application Architecture
 
 ---
 
-## 📫 Let's Connect
+### 👯 Open To
 
-- 💼 LinkedIn: Your LinkedIn Profile
-- 🌐 Portfolio: Your Portfolio Website
-- 📧 Email: Your Email
+- Full-Time Software Developer Roles
+- Freelance Projects
+- Open Source Contributions
+- Collaboration Opportunities
 
 ---
+
+### 💬 Ask Me About
+
+- MERN Stack Development
+- React.js
+- Node.js
+- MongoDB
+- REST APIs
+- Responsive Web Design
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🌐 Portfolio: https://your-portfolio.com
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning ideas into modern, scalable web applications and continuously learning new technologies to improve my development skills.
 
 ⭐ Thanks for visiting my profile!
