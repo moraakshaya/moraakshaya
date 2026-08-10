@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-<img src="./avatar.png" alt="Akshaya Avatar" width="300" align="right" />
+<img src="./akshaya.png" alt="Akshaya Avatar" width="300" align="right" />
 
 I'm a **Frontend Developer** with hands-on experience building modern, responsive, and user-focused web applications. I enjoy turning ideas into **clean interfaces, reusable components, and real-world applications**. Currently, I'm expanding my expertise into backend development to become a well-rounded **Full Stack Developer**.
 
