@@ -1,105 +1,127 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi!%20I'm%20Akshaya%20👋&fontSize=60&fontAlignY=35&desc=Frontend%20Developer%20%E2%86%92%20Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="Header" />
+</div>
 
+<h3 align="center">
+  Building scalable web applications | Creating reusable UI systems | Designing REST APIs
+</h3>
 
-<!--
-**moraakshaya/moraakshaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# Hi there, I'm Akshaya 👋
-
-### 🚀 Full Stack MERN Developer
-
-I'm a passionate Full Stack Developer who enjoys building modern, scalable, and user-friendly web applications using the MERN Stack. I love creating clean, responsive interfaces and robust backend systems that solve real-world problems.
+<p align="center">
+  <a href="https://github.com/moraakshaya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Frontend+Developer;Learning+Backend+Development;Goal:+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 💻 Tech Stack
+## 👩‍💻 About Me
 
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
+<img src="./avatar.png" alt="Akshaya Avatar" width="300" align="right" />
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+I'm a **Frontend Developer** with hands-on experience building modern, responsive, and user-focused web applications. I enjoy turning ideas into **clean interfaces, reusable components, and real-world applications**. Currently, I'm expanding my expertise into backend development to become a well-rounded **Full Stack Developer**.
 
-**Database**
-- MongoDB
-- Mongoose
+- 🔭 **Currently Building:** Data-driven interfaces, Admin Dashboards, and Modern Landing Pages.
+- 🌱 **Currently Learning:** `Node.js`, `Express.js`, `REST API Architecture`, `MongoDB`, and `API Security`.
+- 🧠 **Development Philosophy:** *Build it clean. Make it useful. Keep improving.* I focus on writing code that is clean, reusable, responsive, maintainable, and scalable.
+- 👯 **Looking to collaborate on:** Open Source Projects & Full Stack Web Apps.
+- 💬 **Ask me about:** React, JavaScript, Responsive Design, and Frontend Performance.
 
-**Tools**
-- Git
-- GitHub
-- Postman
-- VS Code
-- Vercel
-- Render
+<br clear="both"/>
 
 ---
 
-### 🔭 Currently Working On
+## 💻 Tech Stack
 
-- 🚀 Professional Developer Portfolio
-- 📊 MERN CRM (Lead & Client Management System)
-- 👨‍💼 Human Resource Management (HRM) System
+<div align="center">
 
----
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend skills" />
+</p>
 
-### 🌱 Currently Learning
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend skills" />
+</p>
 
-- Advanced Backend Development
-- System Design
-- Performance Optimization
-- Scalable Application Architecture
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
+</p>
 
----
-
-### 👯 Open To
-
-- Full-Time Software Developer Roles
-- Freelance Projects
-- Open Source Contributions
-- Collaboration Opportunities
+</div>
 
 ---
 
-### 💬 Ask Me About
+## 🔥 Featured Project: Client & Lead Management System
 
-- MERN Stack Development
-- React.js
-- Node.js
-- MongoDB
-- REST APIs
-- Responsive Web Design
+A full-stack CRM application designed to manage clients, leads, follow-ups, notes, and activities from a unified dashboard.
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Core Features</b>
+      <ul>
+        <li>📊 Interactive dashboard & analytics</li>
+        <li>👥 Client & Lead management</li>
+        <li>📝 Notes & Activity timeline</li>
+        <li>🔐 JWT authentication & Role-based access</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <b>Technology Stack</b>
+      <ul>
+        <li><b>Frontend:</b> React, Responsive UI</li>
+        <li><b>Backend:</b> Node.js, Express.js</li>
+        <li><b>Database:</b> MongoDB, Mongoose</li>
+        <li><b>Architecture:</b> REST APIs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect With Me
+## 📈 GitHub Stats
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 Portfolio: https://your-portfolio.com
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moraakshaya&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraakshaya&hide_border=true&theme=dracula" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraakshaya&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" width="50%" />
+</div>
 
 ---
 
-### ⚡ Fun Fact
+## 🎯 2026 Goals Journey
 
-I enjoy turning ideas into modern, scalable web applications and continuously learning new technologies to improve my development skills.
+```diff
++ [✓] Strengthen React Development & Build Real-world Applications
++ [✓] Work with REST APIs, Node.js & MongoDB
+- [ ] Build production-ready backend systems
+- [ ] Improve system architecture skills
+- [ ] Contribute to open source
+- [ ] Grow as a Full Stack Developer
+```
 
-⭐ Thanks for visiting my profile!
+---
+
+## 🤝 Let's Connect
+
+I'm open to **Full Stack / Frontend Opportunities**, **Freelance Projects**, and **Open Source Collaboration**.
+
+<div align="center">
+  <a href="https://github.com/moraakshaya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- You can add more badges here like LinkedIn, Twitter, Portfolio, Email -->
+</div>
+
+<p align="center">
+  <br/>
+  <b><code>console.log("Let's build something great 🚀");</code></b>
+</p>
