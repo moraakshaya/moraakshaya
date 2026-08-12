@@ -33,32 +33,13 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
 ## 💻 Tech Stack
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="33%" align="center" valign="top" style="border: none; border-right: 1px solid #555; padding: 15px 30px;">
-        <b>Frontend</b><br><br>
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="border-radius: 50%; margin: 2px;" />
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="border-radius: 50%; margin: 2px;" />
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="border-radius: 50%; margin: 2px;" /><br>
-        <img src="https://skillicons.dev/icons?i=react" alt="React" style="border-radius: 50%; margin: 2px;" />
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" style="border-radius: 50%; margin: 2px;" />
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" style="border-radius: 50%; margin: 2px;" />
-      </td>
-      <td width="33%" align="center" valign="top" style="border: none; border-right: 1px solid #555; padding: 15px 30px;">
-        <b>Backend & Database</b><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="border-radius: 50%; margin: 2px;" />
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" style="border-radius: 50%; margin: 2px;" /><br>
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="border-radius: 50%; margin: 2px;" />
-      </td>
-      <td width="33%" align="center" valign="top" style="border: none; padding: 15px 30px;">
-        <b>Tools</b><br><br>
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" style="border-radius: 50%; margin: 2px;" />
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="border-radius: 50%; margin: 2px;" /><br>
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" style="border-radius: 50%; margin: 2px;" />
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" style="border-radius: 50%; margin: 2px;" />
-      </td>
-    </tr>
-  </table>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Frontend</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Backend & Database</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Tools</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=3" alt="Frontend skills" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=2" alt="Backend skills" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=2" alt="Tools" />
 </div>
 
 ---
