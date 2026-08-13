@@ -45,29 +45,96 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
 
 ---
 
-## 🔥 Featured Project: Client & Lead Management System
-
-A full-stack CRM application designed to manage clients, leads, follow-ups, notes, and activities from a unified dashboard.
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <b>Core Features</b>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=Lead-Client+Management" alt="Lead-Client Management System" width="100%" />
+      </div>
+      <h3 align="center">💼 Lead–Client Management System</h3>
+      <p>A full-stack CRM application designed to manage clients, leads, follow-ups, notes, and activities through a unified dashboard.</p>
+      <b>Key Features</b>
       <ul>
         <li>📊 Interactive dashboard & analytics</li>
-        <li>👥 Client & Lead management</li>
-        <li>📝 Notes & Activity timeline</li>
-        <li>🔐 JWT authentication & Role-based access</li>
+        <li>👥 Client & lead management</li>
+        <li>📝 Follow-ups, notes & activity tracking</li>
+        <li>🔐 JWT authentication & role-based access</li>
+        <li>⚡ REST API architecture</li>
+        <li>📱 Responsive UI</li>
       </ul>
+      <p><b>Tech Stack:</b> React • Node.js • Express.js • MongoDB • Mongoose</p>
+      <br/>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </div>
     </td>
-    <td width="50%">
-      <b>Technology Stack</b>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=ChatFlow" alt="ChatFlow" width="100%" />
+      </div>
+      <h3 align="center">💬 ChatFlow — Real-Time Chat</h3>
+      <p>A production-oriented real-time chat application built to handle conversations, messaging, notifications, and real-time user interactions.</p>
+      <b>Key Features</b>
       <ul>
-        <li><b>Frontend:</b> React, Responsive UI</li>
-        <li><b>Backend:</b> Node.js, Express.js</li>
-        <li><b>Database:</b> MongoDB, Mongoose</li>
-        <li><b>Architecture:</b> REST APIs</li>
+        <li>💬 Real-time messaging with Socket.IO</li>
+        <li>👥 Conversations & member management</li>
+        <li>😀 Message reactions</li>
+        <li>✓ Read receipts & unread message counters</li>
+        <li>⌨️ Typing indicators & online presence</li>
+        <li>🔔 Notifications</li>
+        <li>📎 Attachments & message search</li>
+        <li>🔐 Authentication, authorization & security</li>
+        <li>🛡️ Rate limiting & request validation</li>
       </ul>
+      <p><b>Tech Stack:</b> React • Node.js • Express.js • MongoDB • Socket.IO • REST APIs</p>
+      <br/>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Project
+
+<table>
+  <tr>
+    <td valign="top">
+      <div align="center">
+        <img src="https://placehold.co/800x400/1e1e2e/ffffff?text=GVR+Website" alt="GVR Website Development" width="100%" />
+      </div>
+      <h3 align="center">🌐 GVR — Website Development</h3>
+      <p>A complete website developed independently during my professional experience. I was responsible for the <b>design implementation, frontend development, responsive layouts, interactions, and overall website development</b>.</p>
+      <b>My Contribution</b>
+      <ul>
+        <li>🎨 Designed and developed the website interface</li>
+        <li>💻 Built responsive layouts for desktop, tablet & mobile</li>
+        <li>🧩 Developed reusable UI components</li>
+        <li>⚡ Implemented animations and interactive elements</li>
+        <li>📱 Optimized the experience across different screen sizes</li>
+        <li>🚀 Handled the complete frontend development independently</li>
+      </ul>
+      <p><b>Tech Stack:</b> HTML • CSS • JavaScript • Tailwind CSS • GSAP</p>
+      <br/>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
