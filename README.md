@@ -33,14 +33,31 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
 ## 💻 Tech Stack
 
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Frontend</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Backend & Database</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Tools</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=3" alt="Frontend skills" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=2" alt="Backend skills" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=2" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" title="Vite" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" title="Express.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" title="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code" />
 </div>
 
 ---
@@ -109,13 +126,13 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
 
 ---
 
-## 💼 Professional Project
+## 💼 Professional Projects
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <div align="center">
-        <img src="https://placehold.co/800x400/1e1e2e/ffffff?text=GVR+Website" alt="GVR Website Development" width="100%" />
+        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=GVR+Website" alt="GVR Website Development" width="100%" />
       </div>
       <h3 align="center">🌐 GVR — Website Development</h3>
       <p>A complete website developed independently during my professional experience. I was responsible for the <b>design implementation, frontend development, responsive layouts, interactions, and overall website development</b>.</p>
@@ -136,25 +153,34 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
         </a>
       </div>
     </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=Prodbiz+Solutions" alt="Prodbiz Solutions Company Website" width="100%" />
+      </div>
+      <h3 align="center">🌐 Prodbiz Solutions — Company Website</h3>
+      <p>A professional business website developed as part of my work at the company, focused on presenting the company's services, solutions, and brand through a modern responsive web experience.</p>
+      <b>My Contribution</b>
+      <ul>
+        <li>🎨 Developed responsive website interfaces</li>
+        <li>🧩 Implemented reusable UI components</li>
+        <li>📱 Built mobile, tablet & desktop layouts</li>
+        <li>⚡ Added interactive elements and animations</li>
+        <li>🎯 Focused on clean UI, usability, and responsive design</li>
+        <li>🚀 Contributed to the complete frontend development</li>
+      </ul>
+      <p><b>Tech Stack:</b> HTML • CSS • JavaScript • Tailwind CSS • GSAP</p>
+      <br/>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moraakshaya&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraakshaya&hide_border=true&theme=dracula" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraakshaya&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" width="50%" />
-</div>
-
----
 
 ## 🎯 2026 Goals Journey
 
