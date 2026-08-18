@@ -139,7 +139,7 @@ I'm a **Frontend / Full-Stack Developer** specializing in React.js, JavaScript, 
       <p><b>Tech Stack:</b> HTML • CSS • JavaScript • Tailwind CSS • GSAP</p>
       <br/>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://www.prodbizsolutions.com/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </div>
@@ -162,7 +162,7 @@ I'm a **Frontend / Full-Stack Developer** specializing in React.js, JavaScript, 
       <p><b>Tech Stack:</b> HTML • CSS • JavaScript • Tailwind CSS • GSAP</p>
       <br/>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://www.gvrinfosystems.com/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </div>
