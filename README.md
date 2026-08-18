@@ -146,7 +146,7 @@ I'm a **Frontend / Full-Stack Developer** specializing in React.js, JavaScript, 
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=GVR+-+Website+Development" alt="GVR Website Development" width="100%" />
+        <img src="./gvr-infotech-image.png" alt="GVR Website Development" width="100%" />
       </div>
       <h3 align="center">🌐 GVR — Website Development</h3>
       <p>A complete website developed independently during my professional experience. I was responsible for the <b>design implementation, frontend development, responsive layouts, interactions, and overall website development</b>.</p>
