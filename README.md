@@ -18,12 +18,11 @@
 
 <img src="./akshaya.png" alt="Akshaya Avatar" width="300" align="right" />
 
-I'm a **Frontend Developer** with hands-on experience building modern, responsive, and user-focused web applications. I enjoy turning ideas into **clean interfaces, reusable components, and real-world applications**. Currently, I'm expanding my expertise into backend development to become a well-rounded **Full Stack Developer**.
+I'm a **Frontend / Full-Stack Developer** specializing in React.js, JavaScript, Node.js and REST APIs. Currently open to software development opportunities.
 
 - 🔭 **Currently Building:** Data-driven interfaces, Admin Dashboards, and Modern Landing Pages.
 - 🌱 **Currently Learning:** `Node.js`, `Express.js`, `REST API Architecture`, `MongoDB`, and `API Security`.
 - 🧠 **Development Philosophy:** *Build it clean. Make it useful. Keep improving.* I focus on writing code that is clean, reusable, responsive, maintainable, and scalable.
-- 👯 **Looking to collaborate on:** Open Source Projects & Full Stack Web Apps.
 - 💬 **Ask me about:** React, JavaScript, Responsive Design, and Frontend Performance.
 
 <br clear="both"/>
@@ -90,28 +89,24 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=ChatFlow" alt="ChatFlow" width="100%" />
+        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=ChatFlow+-+Real-Time+Chat" alt="ChatFlow" width="100%" />
       </div>
-      <h3 align="center">💬 ChatFlow — Real-Time Chat</h3>
-      <p>A production-oriented real-time chat application built to handle conversations, messaging, notifications, and real-time user interactions.</p>
-      <b>Key Features</b>
+      <h3 align="center">🔧 ChatFlow — Backend / In Progress</h3>
+      <p>Real-Time Communication Platform.</p>
+      <b>Progress</b>
       <ul>
-        <li>💬 Real-time messaging with Socket.IO</li>
-        <li>👥 Conversations & member management</li>
-        <li>😀 Message reactions</li>
-        <li>✓ Read receipts & unread message counters</li>
-        <li>⌨️ Typing indicators & online presence</li>
-        <li>🔔 Notifications</li>
-        <li>📎 Attachments & message search</li>
-        <li>🔐 Authentication, authorization & security</li>
-        <li>🛡️ Rate limiting & request validation</li>
+        <li>Developed the backend architecture for a multi-tenant real-time communication platform.</li>
+        <li>Implemented organization and authentication modules with JWT-based authentication and authorization.</li>
+        <li>Designed REST APIs for organizations, users, workspaces, conversations, conversation members, and messages.</li>
+        <li>Implemented modular backend architecture using Express.js, controllers, routes, middleware, and Mongoose models.</li>
+        <li>Integrated Socket.IO architecture for real-time messaging and communication features.</li>
+        <li>Implemented backend functionality for messaging features including conversations, members, messages, reactions, read receipts, and notifications.</li>
+        <li>Tested and validated backend APIs using Postman.</li>
+        <li>🚧 <b>Currently developing the React frontend for the platform.</b></li>
       </ul>
-      <p><b>Tech Stack:</b> React • Node.js • Express.js • MongoDB • Socket.IO • REST APIs</p>
+      <p><b>Tech Stack:</b> Node.js • Express.js • MongoDB • Socket.IO • Redis</p>
       <br/>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
@@ -128,30 +123,7 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=GVR+Website" alt="GVR Website Development" width="100%" />
-      </div>
-      <h3 align="center">🌐 GVR — Website Development</h3>
-      <p>A complete website developed independently during my professional experience. I was responsible for the <b>design implementation, frontend development, responsive layouts, interactions, and overall website development</b>.</p>
-      <b>My Contribution</b>
-      <ul>
-        <li>🎨 Designed and developed the website interface</li>
-        <li>💻 Built responsive layouts for desktop, tablet & mobile</li>
-        <li>🧩 Developed reusable UI components</li>
-        <li>⚡ Implemented animations and interactive elements</li>
-        <li>📱 Optimized the experience across different screen sizes</li>
-        <li>🚀 Handled the complete frontend development independently</li>
-      </ul>
-      <p><b>Tech Stack:</b> HTML • CSS • JavaScript • Tailwind CSS • GSAP</p>
-      <br/>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=Prodbiz+Solutions" alt="Prodbiz Solutions Company Website" width="100%" />
+        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=Prodbiz+Solutions+-+Website" alt="Prodbiz Solutions Company Website" width="100%" />
       </div>
       <h3 align="center">🌐 Prodbiz Solutions — Company Website</h3>
       <p>A professional business website developed as part of my work at the company, focused on presenting the company's services, solutions, and brand through a modern responsive web experience.</p>
@@ -163,6 +135,29 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
         <li>⚡ Added interactive elements and animations</li>
         <li>🎯 Focused on clean UI, usability, and responsive design</li>
         <li>🚀 Contributed to the complete frontend development</li>
+      </ul>
+      <p><b>Tech Stack:</b> HTML • CSS • JavaScript • Tailwind CSS • GSAP</p>
+      <br/>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=GVR+-+Website+Development" alt="GVR Website Development" width="100%" />
+      </div>
+      <h3 align="center">🌐 GVR — Website Development</h3>
+      <p>A complete website developed independently during my professional experience. I was responsible for the <b>design implementation, frontend development, responsive layouts, interactions, and overall website development</b>.</p>
+      <b>My Contribution</b>
+      <ul>
+        <li>🎨 Designed and developed the website interface</li>
+        <li>💻 Built responsive layouts for desktop, tablet & mobile</li>
+        <li>🧩 Developed reusable UI components</li>
+        <li>⚡ Implemented animations and interactive elements</li>
+        <li>📱 Optimized the experience across different screen sizes</li>
+        <li>🚀 Handled the complete frontend development independently</li>
       </ul>
       <p><b>Tech Stack:</b> HTML • CSS • JavaScript • Tailwind CSS • GSAP</p>
       <br/>
@@ -193,19 +188,15 @@ I'm a **Frontend Developer** with hands-on experience building modern, responsiv
 
 ## 🤝 Let's Connect
 
-I'm currently open for **Full Stack / Frontend Developer roles** and **freelance opportunities**. Whether you have a question, a project idea, or just want to say hi, my inbox is always open! I'll try my best to get back to you!
+I'm currently seeking **Full Stack / Frontend Developer roles**. Whether you have a question about my work or want to discuss a potential opportunity, my inbox is always open!
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/moraakshaya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/moraakshaya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="#">
