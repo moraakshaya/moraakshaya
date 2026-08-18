@@ -123,7 +123,7 @@ I'm a **Frontend / Full-Stack Developer** specializing in React.js, JavaScript, 
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=Prodbiz+Solutions+-+Website" alt="Prodbiz Solutions Company Website" width="100%" />
+        <img src="./company-website-image.png" alt="Prodbiz Solutions Company Website" width="100%" />
       </div>
       <h3 align="center">🌐 Prodbiz Solutions — Company Website</h3>
       <p>A professional business website developed as part of my work at the company, focused on presenting the company's services, solutions, and brand through a modern responsive web experience.</p>
