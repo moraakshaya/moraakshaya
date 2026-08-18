@@ -63,7 +63,7 @@ I'm a **Frontend / Full-Stack Developer** specializing in React.js, JavaScript, 
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://placehold.co/600x300/1e1e2e/ffffff?text=Lead-Client+Management" alt="Lead-Client Management System" width="100%" />
+        <img src="./lead-client-management-website-image.png" alt="Lead-Client Management System" width="100%" />
       </div>
       <h3 align="center">💼 Lead–Client Management System</h3>
       <p>A full-stack CRM application designed to manage clients, leads, follow-ups, notes, and activities through a unified dashboard.</p>
@@ -79,7 +79,7 @@ I'm a **Frontend / Full-Stack Developer** specializing in React.js, JavaScript, 
       <p><b>Tech Stack:</b> React • Node.js • Express.js • MongoDB • Mongoose</p>
       <br/>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://client-lead-management-system-zeta.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
         <a href="#" target="_blank">
